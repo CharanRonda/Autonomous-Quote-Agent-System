@@ -1,8 +1,7 @@
-Flask
 pandas
+numpy
 scikit-learn
-<<<<<<< HEAD
-numpy
-=======
-numpy
->>>>>>> 34b3ca1e5a5b2ce18154ec3d61e2cbcc30cd066a
+imbalanced-learn
+shap
+streamlit
+matplotlib
